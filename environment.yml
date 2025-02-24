@@ -1,0 +1,10 @@
+name: salespro
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.9.18
+- pip
+- pip:
+  - django==4.2.10
+  - python-dotenv==1.0.1
