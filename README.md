@@ -3,6 +3,11 @@
 ### Iniciando Ambiente:
 Toda vez que iniciar o sistema lembre de iniciar o conda
 
+Caso seja a primeira vez que estiver acessando basta:
+```bash
+conda env create -f environment.yml
+```
+
 ```bash
 conda activate salespro
 ```

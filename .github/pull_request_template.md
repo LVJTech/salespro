@@ -15,7 +15,6 @@
 
 ## Projetos
 - [ ] Django
-- [ ] Streamlit
 
 ## Testes realizados
 - [ ] Unitários
